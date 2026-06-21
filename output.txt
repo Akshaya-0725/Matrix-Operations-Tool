@@ -1,20 +1,32 @@
-Matrix A:
-[[1,2],[3,4]]
+==================================================
+ MATRIX OPERATIONS TOOL
+==================================================
 
-Matrix B:
-[[5,6],[7,8]]
+1. Matrix Addition
+2. Matrix Subtraction
+3. Matrix Multiplication
+4. Matrix Transpose
+5. Matrix Determinant
+6. Exit
 
-Addition:
-[[6,8],[10,12]]
+Enter choice: 1
 
-Subtraction:
-[[-4,-4],[-4,-4]]
+Enter details for Matrix A
+Rows: 2
+Columns: 2
 
-Multiplication:
-[[19,22],[43,50]]
+Elements:
+1
+2
+3
+4
 
-Transpose:
-[[1,3],[2,4]]
+Enter details for Matrix B
+Rows: 2
+Columns: 2
 
-Determinant:
--2
+Elements:
+5
+6
+7
+8
