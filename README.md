@@ -1,6 +1,5 @@
 # Matrix-Operations-Tool
-*Qskill internship Python project on Matrix Operations Tool [task - 01]
-
+* Qskill internship Python project on Matrix Operations Tool [task - 01]
 * A Python project using NumPy for matrix operations.
 
 Features:
